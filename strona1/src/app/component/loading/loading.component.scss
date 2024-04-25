@@ -1,3 +1,4 @@
+
 .spinner {
     width: 56px;
     height: 56px;
@@ -6,6 +7,12 @@
     border-radius: 50%;
     border-color: #ff6f6f #0000;
     animation: spinner-e04l1k 1s infinite linear;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
  }
  
  .spinner::before,
