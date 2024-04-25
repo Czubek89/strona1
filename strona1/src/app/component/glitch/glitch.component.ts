@@ -8,10 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './glitch.component.scss'
 })
 export class GlitchComponent {
-  ngAfterViewInit(): void {
-    
-
-    
-  }
 
 }
